@@ -1,0 +1,7 @@
+spyder
+langchain
+huggingface_hub
+openai
+google-search-results
+tiktoken
+wikipedia
